@@ -36,4 +36,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   array[index]=element;
+  array[index];
 end
